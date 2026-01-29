@@ -399,6 +399,9 @@ Durham, North Carolina,, USA.
 - [DefCon Training](https://training.defcon.org/pages/2026-las-vegas-call-for-trainers)
   > Date: 8th - 11th August || Mode: In-person || Location: Las Vegas, Nevada, USA.
 
+- [Pycon Togo](https://pycontg.pytogo.org)
+  > Date: 21st - 23rd August || Mode: Hybrid || Location: Lome, Togo.
+
 - [PyCon Australia](https://2026.pycon.org.au/)
   > Date: 26th - 30th August || Mode: In-person || Location: Brisbane, Australia.
 
